@@ -1,0 +1,44 @@
+body {
+  background-color: #2F2E41;
+  margin: 0;
+}
+
+.page {
+  padding-top: 71px;
+}
+
+main {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 1092px;  
+}
+
+ul {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  gap: 64px;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;      
+}
+
+nav img {
+  gap: 607px;
+}
+
+a {
+  color:  #FFF;
+}
+
+.line {  
+  background: #00BFA6;
+  width: 568px;
+  height: 1px;
+}
+
